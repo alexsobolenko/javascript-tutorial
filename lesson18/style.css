@@ -1,0 +1,11 @@
+.css-class {
+  color: red;
+  background-color: black;
+  border: 1px solid blue;
+  padding: 3px;
+}
+
+.css-class-new {
+  width: 300px;
+  margin: 0 auto;
+}
